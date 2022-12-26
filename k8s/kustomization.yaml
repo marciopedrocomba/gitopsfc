@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: marciopedrocomba/gitopsfc
-  newTag: 68d7b05752a8c54d09e5b312e8d8204dd16ca595
+  newTag: d690a325a2988b2123b299193eede8d262ee809e
